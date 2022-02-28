@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Fatih!]</h1>
+<h2 align="center">Hi 👋, I'm [Fatih!]</h2>
 
 <h3 align="center">A Software Developer from Eskisehir, Turkey</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=fatihhacioglucom&color=lightgray alt=fatihhacioglucom/> </p>
@@ -11,11 +11,11 @@
 **Talking about Personal Stuffs:**
 - 🌱 I’m currently learning **Angular.js, .NET Core, Javascript etc.**
 - 🎓 I'm a Statistics graduate.
-- 📝 I regularly write articles on [My Medium Page](https://fatihhacioglucom.medium.com)
-- 📝 My personal page [https://www.fatihhacioglu.com](https://www.fatihhacioglu.com)
-- 💬 Ask me about anything, I am happy to help,
-- ⚡️ Fun-Fact: Anything is possible;
+- 📝 My personal page [www.fatihhacioglu.com](https://www.fatihhacioglu.com)
+- 💬 Ask me about anything, I am happy to help.
+- ⚡️ Fun-Fact: Anything is possible.
 - 📫 How to reach me **fatihhacioglucom@gmail.com**
+<!-- 📝 I regularly write articles on [My Medium Page](https://fatihhacioglucom.medium.com) -->
 
 
 <h3 align="left">Connect with me:</h3>
