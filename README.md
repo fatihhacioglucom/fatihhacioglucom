@@ -11,7 +11,7 @@
 **Talking about Personal Stuffs:**
 - 🌱 I’m currently learning **Angular.js, .NET Core, Javascript etc.**
 - 🎓 I'm a Statistics graduate.
-- 📝 I regularly write articles on [My Medium Page](https://https://fatihhacioglucom.medium.com)
+- 📝 I regularly write articles on [My Medium Page](https://fatihhacioglucom.medium.com)
 - 📝 My personal page [https://www.fatihhacioglu.com](https://www.fatihhacioglu.com)
 - 💬 Ask me about anything, I am happy to help,
 - ⚡️ Fun-Fact: Anything is possible;
