@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm [Fatih!]</h2>
 
-<h3 align="center">A Software Developer from Eskisehir, Turkey</h3>
+<h3 align="center">A Senior Software Developer from Ankara, Turkey</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=fatihhacioglucom&color=lightgray alt=fatihhacioglucom/> </p>
 
 <br/>
